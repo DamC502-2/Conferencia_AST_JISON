@@ -1,0 +1,34 @@
+digraph G { 
+    graph [ratio=.548];
+    node [style=filled, color=black, shape=circle, width=1
+        fontname=Helvetica, fontweight=bold, fontcolor=black,
+        fontsize=10, fixedsize=true];
+n8572523336658190 [label="grafica L1 C: 0" fillcolor="#e7019c"];
+ n8572523336658190 -> n8961397223426033 ; 
+n8961397223426033 [label="+EXP L1 C: 18" fillcolor="#b7d4eb"];
+ n8961397223426033 -> n2783655727162641 ; 
+n2783655727162641 [label="(E) L1 C: 9" fillcolor="#ffcea1"];
+ n2783655727162641 -> n6537644361756668 ; 
+n6537644361756668 [label="ListaD L1 C: 16" fillcolor="#d3ffc1"];
+ n6537644361756668 -> n586361851559569 ; 
+n586361851559569 [label="4 L1 C: 16" fillcolor="#20c3d8"];
+ n6537644361756668 -> n6597962032792458 ; 
+n6597962032792458 [label="3 L1 C: 14" fillcolor="#20c3d8"];
+ n6537644361756668 -> n4519287379760677 ; 
+n4519287379760677 [label="2 L1 C: 12" fillcolor="#20c3d8"];
+ n6537644361756668 -> n8736988257973915 ; 
+n8736988257973915 [label="1 L1 C: 10" fillcolor="#20c3d8"];
+ n8961397223426033 -> n864035357902298 ; 
+n864035357902298 [label="{E} L1 C: 19" fillcolor="#cae4ce"];
+ n864035357902298 -> n5361097670567301 ; 
+n5361097670567301 [label="ListaI L1 C: 20" fillcolor="#86bafd"];
+ n5361097670567301 -> n7348244361410970 ; 
+n7348244361410970 [label="1 L1 C: 20" fillcolor="#20c3d8"];
+ n5361097670567301 -> n1762831210236357 ; 
+n1762831210236357 [label="2 L1 C: 22" fillcolor="#20c3d8"];
+ n5361097670567301 -> n2997103562684130 ; 
+n2997103562684130 [label="3 L1 C: 24" fillcolor="#20c3d8"];
+ n5361097670567301 -> n2435951716937389 ; 
+n2435951716937389 [label="4 L1 C: 26" fillcolor="#20c3d8"];
+  
+ }
